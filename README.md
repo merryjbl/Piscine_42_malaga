@@ -74,8 +74,6 @@ The Piscine is an intensive coding program focused on peer-to-peer learning, pro
 ├── C03/
 ├── Shell00/
 ├── Shell01/
-├── Tools/
-├── LICENSE
 └── README.md
 ```
 
